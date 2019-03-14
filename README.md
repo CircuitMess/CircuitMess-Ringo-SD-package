@@ -1,4 +1,4 @@
-# MAKERphone-SD-package
+# MAKERphone SD package
 A repository containing apps, games and ringtones that come with every MAKERphone by default 
 
 Copyright © 2019 CircuitMess
