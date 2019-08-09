@@ -1,5 +1,5 @@
 # CircuitMess Ringo SD package
-A repository containing apps, games and ringtones that come with every CircuitMess Ringo by default 
+A repository containing apps, games and ringtones that come with every CircuitMess Ringo by default. 
 
 MAKERphone comes with 128MB SD card in the Micro SD card socket that is FAT and FAT32 compatible.  
 
